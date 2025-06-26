@@ -142,13 +142,3 @@ This script helps in generating random data for the database, simulating real-wo
 ## Conclusion
 
 This project offers a comprehensive yet straightforward way to practice SQL, database schema design, and data manipulation in Python. By using SQLAlchemy and SQLite, you can gain practical experience with relational databases, transactions, and real-world data scenarios, making you better prepared for database-related projects in the real world.
-
-Citations:
-[1] https://devcamp.com/trails/python-api-development-with-flask/campsites/hello-flask/guides/creating-sqlite-database-flask-sqlalchemy
-[2] https://realpython.com/python-sqlite-sqlalchemy/
-[3] https://www.digitalocean.com/community/tutorials/how-to-structure-a-large-flask-application-with-flask-blueprints-and-flask-sqlalchemy
-[4] https://python-forum.io/thread-24127.html
-[5] https://www.datacamp.com/tutorial/sqlalchemy-tutorial-examples
-[6] https://docs.sqlalchemy.org/en/20/dialects/sqlite.html
-[7] https://docs.sqlalchemy.org/en/20/core/engines.html
-[8] https://stackoverflow.com/questions/51756650/using-proper-file-structure-with-sqlalchemy-and-how-to-add-data-to-db
